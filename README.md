@@ -7,8 +7,12 @@ This project analyzes 12 months of Cyclistic bike-share data (5.5M+ rides) to id
 Understand how usage patterns differ between rider types and identify opportunities to convert casual riders into annual members.
 
 ## Tools Used
+
 - Google BigQuery (SQL) – Data cleaning and transformation  
+- Google Cloud Storage – Data storage and file management  
 - Tableau Public – Interactive dashboard creation  
+- Microsoft Word – Report documentation  
+- Generative AI tools – Assisted with SQL query refinement and report structuring (all analysis independently validated)
 
 ## Key Insights
 - Members account for 64% of total rides  
