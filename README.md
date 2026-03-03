@@ -6,6 +6,16 @@ This project analyzes 12 months of Cyclistic bike-share data (5.5M+ rides) to id
 ## Business Objective
 Understand how usage patterns differ between rider types and identify opportunities to convert casual riders into annual members.
 
+## Data Source
+
+The dataset used in this analysis was obtained from the Divvy Trip Data public repository provided by Motivate International Inc.
+
+Source: https://divvy-tripdata.s3.amazonaws.com/index.html
+
+Twelve monthly datasets (February 2025 – January 2026) were downloaded and consolidated for full-year analysis.
+
+The dataset contains no personally identifiable information (PII).
+
 ## Tools Used
 
 - Google BigQuery (SQL) – Data cleaning and transformation  
